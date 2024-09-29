@@ -4,12 +4,18 @@
 ## Overview
 
 ### Purpose
-A brief description of the project's purpose, what it aims to achieve, and the value it provides to the users.  
-**Guidance:** Begin filling out this section during Phase 1: Ideation & Initial Setup. Clearly articulate the main goal of your project, what it aims to achieve, and how it will provide value to your target audience.
+Awernes:How mental health infuence how we think, feel and behave. Guide with tips how to manage stress and connect with others.
+Tips and guidlines for healthy mental brain.
+To empower user with information 
+Mental health is an very important aspect of overall health thoughout life
 
 ### Target Audience
+People who might struggle with managing stress and anxiety.We all might have experiance some changes in their thoughts,mood and behaviour.
+
 Identify the target audience for your website and explain why this audience will benefit from the project.  
 **Guidance:** Use this section to identify who will benefit from your project and why. This should be informed by your user stories and overall project objectives.
+
+This website is design with calm/zen message to help people who might be having some changes in their thoughts,mood, behaviour or feeling anxious.
 
 ## User Stories
 
@@ -44,7 +50,9 @@ Identify the target audience for your website and explain why this audience will
 
 ### Wireframes
 Include wireframes for key sections of your website.  
-Briefly describe the design choices, including layout, colour schemes, and fonts.  
+Briefly describe the design choices, including layout, colour schemes, and fonts.
+![glow like this Color Palette - color-hex com](https://github.com/user-attachments/assets/5182fcc2-5ff1-4338-89e7-8312b65277e8)
+
 **Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
 
 ### Accessibility Considerations
