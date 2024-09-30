@@ -1,57 +1,26 @@
-# MentalHealth
-# Project Title
+Helping hand
 
-## Overview
+In this busy world Mental health is an very important aspect of our overall health and infuence how we think,feel and behave.
 
-### Purpose
-Awernes:How mental health infuence how we think, feel and behave. Guide with tips how to manage stress and connect with others.
-Tips and guidlines for healthy mental brain.
-To empower user with information 
-Mental health is an very important aspect of overall health thoughout life
+This project is to create website with useful tools and tips on managing stress.
+To empower user with information on how to manage stress and anxiety
 
-### Target Audience
-People who might struggle with managing stress and anxiety.We all might have experiance some changes in their thoughts,mood and behaviour.
-
-Identify the target audience for your website and explain why this audience will benefit from the project.  
-**Guidance:** Use this section to identify who will benefit from your project and why. This should be informed by your user stories and overall project objectives.
+This website will have calming look
 
 This website is design with calm/zen message to help people who might be having some changes in their thoughts,mood, behaviour or feeling anxious.
 
-## User Stories
+User Stories
 
-### Must-Have User Stories
-- **User Story 1:** Briefly describe the must-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the must-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
+User Story 1: As a student and mom I want be able to easily find time-managment tips and tools.
+   Front page contains easy to use navigation bar
+   When looking for before bed relaxation link.
 
-(Include all prioritized must-have features)  
-**Guidance:** Draft the user stories during Phase 1: Ideation & Initial Setup and update them as you complete Phase 2: Must User Stories Implementation & Testing. Document each must-have feature here along with its acceptance criteria.
-
-### Should-Have User Stories
-- **User Story 1:** Briefly describe the should-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the should-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-
-(Include all prioritized should-have features)  
-**Guidance:** Document the secondary features that you aim to implement in Phase 3: Should User Stories Implementation & Any Advanced Features. Include clear acceptance criteria for each.
-
-### Could-Have User Stories
-- **User Story 1:** Briefly describe the could-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-- **User Story 2:** Briefly describe the could-have feature.  
-  **Acceptance Criteria:** List the criteria that define the successful implementation of this user story.
-
-(Include any could-have features considered for future enhancements)  
-**Guidance:** Document any optional features that are nice to have but not essential.
-
-## Design Decisions
+Design Decisions
 
 ### Wireframes
 Include wireframes for key sections of your website.  
 Briefly describe the design choices, including layout, colour schemes, and fonts.
-![glow like this Color Palette - color-hex com](https://github.com/user-attachments/assets/5182fcc2-5ff1-4338-89e7-8312b65277e8)
+
 
 **Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
 

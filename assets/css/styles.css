@@ -1,0 +1,17 @@
+/* General styles */
+body {
+
+    color: #476c3e;
+    font-family: 'Karla', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Header */
+header {
+    margin: 0;
+}
