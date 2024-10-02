@@ -5,9 +5,9 @@ In this busy world Mental health is an very important aspect of our overall heal
 This project is to create website with useful tools and tips on managing stress.
 To empower user with information on how to manage stress and anxiety
 
-This website will have calming look
 
-This website is design with calm/zen message to help people who might be having some changes in their thoughts,mood, behaviour or feeling anxious.
+This website is design with calm/zen message to help people who might be having some changes in their thoughts,mood, behaviour or feeling anxious and how to engage in acts of self-care.
+
 
 User Stories
 
@@ -17,11 +17,18 @@ User Story 1: As a student and mom I want be able to easily find time-managment 
 
 Design Decisions
 
-### Wireframes
+Wireframes
 
-Include wireframes for key sections of your website.  
-Briefly describe the design choices, including layout, colour schemes, and fonts.
-<>
+<img src="assets/images/Screenshot 2024-10-02 123002.png">
+
+I wanted to have calm colors:
+
+<img src="assets/images/glow like this Color Palette - color-hex.com.png">
+
+Fonts i used :
+Lato
+Karla
+
 
 **Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
 
