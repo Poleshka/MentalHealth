@@ -17,40 +17,52 @@
 </head>
 
 <body>
+    <!-- nav bar -->
+    <nav class="navbar navbar-expand-lg navbar-success bg-transparent">
+        <a class="navbar-brand" href="#">Helping hand</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Blog</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
-            <a class="navbar-brand" href="#">Helping hand</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
-                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
-                    </li>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                    </div>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-
-
-        <section>
+        <div class></div>
+        <!-- jumbotron -->
+        <div class="container">
             <div class="jumbotron">
                 <div class="container" id="jumbo-tron">
                     <h1 class="cover-text">Each morning we are born again. What we do today is what matters most.</h1>
                     <p class="lead"> Buddha</p>
+                </div>
+            </div>
+        </div>
+
+
+        <section class="container">
+            <div class="row">
+                <div class="reasons-heading">
+                     <h2><strong>Engage in acts of self-care:</strong></h2>
+                    <p>is a way of taking care of yourself in a way that works for you. </p><br>
+
                 </div>
             </div>
         </section>
@@ -60,7 +72,8 @@
         <div class="row">
             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets/images/move-body.jpg" class="card-img-top" alt="woman walking in the forest">
+                    <img src="assets/images/move-body.jpg" class="card-img-top" target="_blank"
+                        alt="woman walking in the forest">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title text-center">Being active</h5>
                         <p class="card-text">Regular exercise is one of the best things you can do for your
@@ -82,7 +95,8 @@
 
             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets/images/greensmooth.jpg" class="card-img-top" alt="Glass of green smoothie">
+                    <img src="assets/images/greensmooth.jpg" class="card-img-top" target="_blank"
+                        alt="Glass of green smoothie">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title text-center">Eating healthy</h5>
                         <p class="card-text">Good nutrition is about healthy eating. This means regularly
@@ -101,7 +115,8 @@
 
             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
-                    <img src="assets/images/bed-relax.jpg" class="card-img-top" alt="Tea cup and book on the bed">
+                    <img src="assets/images/bed-relax.jpg" class="card-img-top" target="_blank" alt=Tea cup and book on
+                        the bed">
                     <div class="card-body d-flex flex-column">
                         <h5 class="card-title text-center">Getting enougth sleep</h5>
                         <p class="card-text">Sleep affects your mood. If you don't get a good sleep, you may
@@ -121,11 +136,17 @@
 
     <!-- form -->
     <section id="contact">
-        <div class="container">
-            <h2 class="contact-heading">Get in touch:</h2>
-            <p>Seriously, if you need someone to talk to do not hasitate to contact us</p>
+        <div class="container-fluid">
+
             <div class="row">
-                <div class="col-sm-8 col-sm-offset-2">
+                <div class="col-md-4">
+                    <div class="row">
+                        <h2 class="contact-heading">Get in touch:</h2>
+                        <p>Seriously, if you need someone to talk to do not hasitate to contact us</p>
+                    </div>
+                </div>
+
+                <div class="col-sm-4 ">
                     <form>
                         <div class="form-group">
                             <label for="form-name">Your name:</label>
@@ -140,7 +161,7 @@
                             <textarea class="form-control" rows="4"
                                 placeholder="tell me whats bothering you today..."></textarea>
                         </div>
-                        <button type="button" class="btn btn-outline-danger">Submit</button>
+                        <button type="button" class="btn btn-danger">Submit</button>
                     </form>
                 </div>
             </div>
@@ -153,23 +174,29 @@
 
         <div class="container" id="audio">
             <div class="row">
+
+                <h1 class="card-title">What can you do for yourself in 10 min</h1>
+
+
                 <div class="card text-center">
-                    <div class="card-body">
-                        <h5 class="card-title">TAKE TIME TO RELAX</h5>
+                    <!-- <div class="card-body"> -->
 
-                        <iframe style="border-radius:12px"
-                            src="https://open.spotify.com/embed/track/7tnesh1ClZdJgJLP1H0ea3?utm_source=generator"
-                            width="100%" height="252" frameBorder="0" allowfullscreen=""
-                            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-                            loading="lazy"></iframe>
 
-                    </div>
+                    <iframe style="border-radius:5px"
+                        src="https://open.spotify.com/embed/track/7tnesh1ClZdJgJLP1H0ea3?utm_source=generator"
+                        width="100%" height="250" frameBorder="0" allowfullscreen=""
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                        loading="lazy"></iframe>
+
+                    <!-- </div> -->
                 </div>
             </div>
         </div>
 
     </footer>
-
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
 </body>
 
 </html>
