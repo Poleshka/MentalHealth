@@ -18,9 +18,10 @@ User Story 1: As a student and mom I want be able to easily find time-managment 
 Design Decisions
 
 ### Wireframes
+
 Include wireframes for key sections of your website.  
 Briefly describe the design choices, including layout, colour schemes, and fonts.
-
+<>
 
 **Guidance:** Start this section during Phase 1: Ideation & Initial Setup and update it throughout Phase 2 and Phase 3. Include digital wireframes created in Phase 1. Document the reasoning behind your layout choices, colour schemes, and font selections.
 
